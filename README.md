@@ -35,6 +35,6 @@ The online shopping Web application will manage the order for purchase, availabi
 
 To run from source code:
 
-•	git clone https://github.com/Tamilmani9600/Online-Shopping.git 
+•	git clone https://github.com/ashwinvishal1/Online-Shopping.git 
 •	mvn package
 •	java -jar target/<jarfilename>.jar
